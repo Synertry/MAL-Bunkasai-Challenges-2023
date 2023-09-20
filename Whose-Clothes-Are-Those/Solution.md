@@ -61,6 +61,6 @@ ___
 | 55 | ![Question 55](images/Question%2055.png "Question 55") | Willem Kmetsch | https://myanimelist.net/character/148738/Willem_Kmetsch | SukaSuka |
 | 56 | ![Question 56](images/Question%2056.png "Question 56") | Ichika Takatsuki | https://myanimelist.net/character/47295/Ichika_Takatsuki | Waiting in the Summer |
 | 57 | ![Question 57](images/Question%2057.png "Question 57") | Appare Sorano | https://myanimelist.net/character/178398/Appare_Sorano | Appare-Ranman! |
-| 58 | ![Question 58](images/Question%2058.png "Question 58") | Chrno | https://myanimelist.net/anime/60/Chrno_Crusade | Chrono Crusade |
+| 58 | ![Question 58](images/Question%2058.png "Question 58") | Chrno | https://myanimelist.net/character/2034/Chrno | Chrono Crusade |
 | 59 | ![Question 59](images/Question%2059.png "Question 59") | Nice | https://myanimelist.net/character/93431/Nice | Hamatora |
 | 60 | ![Question 60](images/Question%2060.png "Question 60") | Uramichi Omota | https://myanimelist.net/character/165714/Uramichi_Omota | Uramichi Oniisan |
