@@ -10,7 +10,7 @@ Link to challenge schedule:
 This repo solves specificially this two Forum Events challenges.
 
 | Challenge | Progress | Solution |
-| -------- | ------- | ------- |
+| --- | :---: | --- |
 | [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 0/20 | [Solution](Seiyuu-Scramble-Female-Edition/Solution.md) |
 | [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2113947) | 51/60 | [Solution](Whose-Clothes-Are-Those/Solution.md) |
 
