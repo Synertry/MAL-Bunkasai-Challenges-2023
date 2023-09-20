@@ -37,8 +37,8 @@ ___
 | 31 | ![Question 31](images/Question%2031.png "Question 31") | Haruhiro | https://myanimelist.net/character/115779/Haruhiro | Grimgar of Fantasy and Ash |
 | 32 | ![Question 32](images/Question%2032.png "Question 32") | Ikoma | https://myanimelist.net/character/136528/Ikoma | Kabaneri of the Iron Fortress |
 | 33 | ![Question 33](images/Question%2033.png "Question 33") | Kaho Hinata | https://myanimelist.net/character/152127/Kaho_Hinata | Blend S |
-| 34 | ![Question 34](images/Question%2034.png "Question 34") |  | | |
-| 35 | ![Question 35](images/Question%2035.png "Question 35") |  | | |
+| 34 | ![Question 34](images/Question%2034.png "Question 34") | Makoto Edamura | https://myanimelist.net/character/177626/Makoto_Edamura | Great Pretender |
+| 35 | ![Question 35](images/Question%2035.png "Question 35") | Nene Yashiro | https://myanimelist.net/character/160103/Nene_Yashiro | Toilet-Bound Hanako-kun |
 | 36 | ![Question 36](images/Question%2036.png "Question 36") | Vivy | https://myanimelist.net/character/193421/Vivy | Vivy: Fluorite Eye's Song |
 | 37 | ![Question 37](images/Question%2037.png "Question 37") | Noé Archiviste | https://myanimelist.net/character/136692/No%C3%A9_Archiviste | The Case Study of Vanitas |
 | 38 | ![Question 38](images/Question%2038.png "Question 38") | Seiya Kanie | https://myanimelist.net/character/99033/Seiya_Kanie | Amagi Brilliant Park |
@@ -49,18 +49,18 @@ ___
 | 43 | ![Question 43](images/Question%2043.png "Question 43") | Selesia Upitiria | https://myanimelist.net/character/148510/Selesia_Upitiria | Re:Creators |
 | 44 | ![Question 44](images/Question%2044.png "Question 44") | Sally | https://myanimelist.net/character/174333/Sally | BOFURI |
 | 45 | ![Question 45](images/Question%2045.png "Question 45") | Alice Asmodeus | https://myanimelist.net/character/154513/Alice_Asmodeus | Welcome to Demon School! Iruma-kun |
-| 46 | ![Question 46](images/Question%2046.png "Question 46") |  | | |
+| 46 | ![Question 46](images/Question%2046.png "Question 46") | Fumino Furuhashi | https://myanimelist.net/character/148394/Fumino_Furuhashi | BokuBen |
 | 47 | ![Question 47](images/Question%2047.png "Question 47") | Daisuke Kanbe | https://myanimelist.net/character/177624/Daisuke_Kanbe | The Millionaire Detective - Balance: UNLIMITED |
 | 48 | ![Question 48](images/Question%2048.png "Question 48") | Nino | https://myanimelist.net/character/28623/Nino | Arakawa Under the Bridge |
-| 49 | ![Question 49](images/Question%2049.png "Question 49") |  | | |
+| 49 | ![Question 49](images/Question%2049.png "Question 49") | Aoi Miyamori | https://myanimelist.net/character/111907/Aoi_Miyamori | Shirobako |
 | 50 | ![Question 50](images/Question%2050.png "Question 50") | Juliet Persia | https://myanimelist.net/character/131194/Juliet_Persia | Boarding School Juliet |
-| 51 | ![Question 51](images/Question%2051.png "Question 51") |  | | |
-| 52 | ![Question 52](images/Question%2052.png "Question 52") |  | | |
+| 52 | ![Question 51](images/Question%2051.png "Question 51") | Kenji Kazama | https://myanimelist.net/character/42633/Kenji_Kazama | D-Frag! |
+| 51 | ![Question 52](images/Question%2052.png "Question 52") | Sieg | https://myanimelist.net/character/126340/Sieg | Fate/Apocrypha |
 | 53 | ![Question 53](images/Question%2053.png "Question 53") | Hitomi Tsukishiro | https://myanimelist.net/character/160190/Hitomi_Tsukishiro | Iroduku: The World in Colors |
 | 54 | ![Question 54](images/Question%2054.png "Question 54") | Haru Nonaka | https://myanimelist.net/character/11766/Haru_Nonaka | Sing "Yesterday" for Me |
 | 55 | ![Question 55](images/Question%2055.png "Question 55") | Willem Kmetsch | https://myanimelist.net/character/148738/Willem_Kmetsch | SukaSuka |
-| 56 | ![Question 56](images/Question%2056.png "Question 56") |  | | |
-| 57 | ![Question 57](images/Question%2057.png "Question 57") |  | | |
-| 58 | ![Question 58](images/Question%2058.png "Question 58") |  | | |
+| 56 | ![Question 56](images/Question%2056.png "Question 56") | Ichika Takatsuki | https://myanimelist.net/character/47295/Ichika_Takatsuki | Waiting in the Summer |
+| 57 | ![Question 57](images/Question%2057.png "Question 57") | Appare Sorano | https://myanimelist.net/character/178398/Appare_Sorano | Appare-Ranman! |
+| 58 | ![Question 58](images/Question%2058.png "Question 58") | Chrno | https://myanimelist.net/anime/60/Chrno_Crusade | Chrono Crusade |
 | 59 | ![Question 59](images/Question%2059.png "Question 59") | Nice | https://myanimelist.net/character/93431/Nice | Hamatora |
 | 60 | ![Question 60](images/Question%2060.png "Question 60") | Uramichi Omota | https://myanimelist.net/character/165714/Uramichi_Omota | Uramichi Oniisan |
