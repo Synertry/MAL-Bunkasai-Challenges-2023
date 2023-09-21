@@ -16,6 +16,7 @@ Questions are all available via this video:
 
 As this is much more harder than the clothes challenge, this solution will be a work in progress.
 
+Back to [Start page](../README.md) ↩️
 
 ## Solution
 
@@ -42,7 +43,8 @@ As this is much more harder than the clothes challenge, this solution will be a 
 | 19 | [Itou, Kanae](https://myanimelist.net/people/762/Kanae_Itou) | | | [Sena Kashiwazaki](https://myanimelist.net/character/37514/Sena_Kashiwazaki) | sample 3 OST [>here<](https://youtu.be/nKa06MddcFE) |
 | 20 | | | | | |
 
+Back to [Start page](../README.md) ↩️
 
-## Notes
+## Footnotes
 
-[^1]: [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) [MyAnimeList], [loirinha](https://discord.com/users/loirinha) [Discord]
+[^1]: [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) [MyAnimeList]

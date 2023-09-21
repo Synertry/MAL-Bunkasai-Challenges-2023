@@ -27,8 +27,10 @@ Seiyuu Annotations:
 S1 = Seiyuu 1</br>
 S1C1 = Seiyuu 1 Character 1
 
-- [katarinaclaes](https://discord.com/users/katarinaclaes) [Discord]:
+Discord channel for the Seiyuu event uses format Q1-1 (Question 1 Character 1).
+
+- [TEMPEST_RIMURU](https://myanimelist.net/profile/TEMPEST_RIMURU) [MyAnimeList]
   - Whose-Clothes-Are-Those: 34, 35, 46, 49, 51, 52, 56, 57, 58
-- [loirinha](https://discord.com/users/loirinha) [Discord], [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) [MyAnimeList]
+- [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) [MyAnimeList]
   - Seiyuu Scramble: S1, S1C1, S1C2
 

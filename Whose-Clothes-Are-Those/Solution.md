@@ -2,6 +2,8 @@
 
 ___
 
+Back to [Start page](../README.md) ↩️
+
 | # | Picture | Character | URL | Anime |
 | :--- | :---: | :--- | :--- | :---: |
 | 1 | ![Question 1](images/Question%201.png "Question 1") | Tanjirou Kamado | https://myanimelist.net/character/146156/Tanjirou_Kamado | Demon Slayer |
@@ -64,3 +66,5 @@ ___
 | 58 | ![Question 58](images/Question%2058.png "Question 58") | Chrno | https://myanimelist.net/character/2034/Chrno | Chrono Crusade |
 | 59 | ![Question 59](images/Question%2059.png "Question 59") | Nice | https://myanimelist.net/character/93431/Nice | Hamatora |
 | 60 | ![Question 60](images/Question%2060.png "Question 60") | Uramichi Omota | https://myanimelist.net/character/165714/Uramichi_Omota | Uramichi Oniisan |
+
+Back to [Start page](../README.md) ↩️
