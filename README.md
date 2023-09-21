@@ -33,4 +33,5 @@ Discord channel for the Seiyuu event uses format Q1-1 (Question 1 Character 1).
   - Whose-Clothes-Are-Those: 34, 35, 46, 49, 51, 52, 56, 57, 58
 - [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) [MyAnimeList]
   - Seiyuu Scramble: S1, S1C1, S1C2
-
+- [CutieZia](https://myanimelist.net/profile/CutieZia) [MyAnimeList]
+  - Seiyuu Scramble: S4, S4C2
