@@ -14,7 +14,11 @@ Questions are all available via this video:
 
 (or originally via this link: [https://youtu.be/BCz_dAbIc8Q](https://youtu.be/BCz_dAbIc8Q))
 
-As this is much more harder than the clothes challenge, this solution will be a work in progress.
+As this is much more harder than the clothes challenge, this solution will be a work in progress.</br>
+You can find my personal guidance for this challenge here:
+[Ressources.md](Ressources.md)
+</br>
+</br>
 
 Back to [Start page](../README.md) ↩️
 
@@ -30,7 +34,7 @@ Back to [Start page](../README.md) ↩️
 | 6 | [Minase, Inori](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | [Chino Kafuu](https://myanimelist.net/character/94941/Chino_Kafuu) | Trademark ASMR Voice |
 | 7 | [Sakura, Ayane](https://myanimelist.net/people/11622/Ayane_Sakura) | | | | her "happy" voice |
 | 8 | | | | | |
-| 9 | [Komatsu, Mikako](https://myanimelist.net/people/10071/Mikako_Komatsu) | | | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | last character has Nisekoi OST, dead giveaway |
+| 9 | [Komatsu, Mikako](https://myanimelist.net/people/10071/Mikako_Komatsu) | [Saika Totsuka](https://myanimelist.net/character/67071/Saika_Totsuka) | | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | last character has Nisekoi OST, dead giveaway |
 | 10 | [Nakahara, Mai](https://myanimelist.net/people/31/Mai_Nakahara) | | | [Nagisa Furukawa](https://myanimelist.net/character/4604/Nagisa_Furukawa) | OST in sample 3 is from Clannad |
 | 11 | | | | | |
 | 12 | | | | | |
