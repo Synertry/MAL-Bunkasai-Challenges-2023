@@ -14,7 +14,14 @@ Questions are all available via this video:
 
 (or originally via this link: [https://youtu.be/BCz_dAbIc8Q](https://youtu.be/BCz_dAbIc8Q))
 
+
+## Contributing
 As this is much more harder than the clothes challenge, this solution will be a work in progress.</br>
+If you want to contribute, please contact me on MAL or Discord.
+Or put an entry in this Google Sheet: https://docs.google.com/spreadsheets/d/1Ew4AqksGXSBn2eQv9w1Yg-Cm2ggb38BLrbEulFvQm2c
+I will lock cells if they are solved regularly, to avoid griefing.
+
+
 You can find my personal guidance for this challenge here:
 [Ressources.md](Ressources.md)
 </br>
@@ -43,7 +50,7 @@ Back to [Start page](../README.md) ↩️
 | 15 | | | | | | |
 | 16 | [Touyama, Nao](https://myanimelist.net/people/11184/Nao_Touyama) | | [Nagisa Shiota](https://myanimelist.net/character/65645/Nagisa_Shiota) | | | sample 2 from [>here<](https://youtu.be/K2UlnxCPYCk) |
 | 17 | | | | | | |
-| 18 | | | | | | |
+| 18 | [Chika, Anzai](https://myanimelist.net/people/11030/Chika_Anzai) | | [Hanabi Yasuraoka](https://myanimelist.net/character/128503/Hanabi_Yasuraoka) | | contributed by [AOIsama](https://myanimelist.net/profile/AOIsama) | no sample source but extensive audio is [>here<](https://www.youtube.com/watch?v=-uI0HEKZgGA) for no. 3 |
 | 19 | [Itou, Kanae](https://myanimelist.net/people/762/Kanae_Itou) | | | [Sena Kashiwazaki](https://myanimelist.net/character/37514/Sena_Kashiwazaki) | | sample 3 Haganai OST [>here<](https://youtu.be/nKa06MddcFE) |
 | 20 | | | | | | |
 

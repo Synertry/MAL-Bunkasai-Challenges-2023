@@ -11,7 +11,7 @@ This repo solves specificially this two Forum Events challenges.
 
 | Challenge | Progress | Solution |
 | --- | --- | --- |
-| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 7/20 | [Solution](Seiyuu-Scramble-Female-Edition/Solution.md) |
+| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 9/20 | [Solution](Seiyuu-Scramble-Female-Edition/Solution.md) |
 | [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2113947) | 60/60 ✔️ | [Solution](Whose-Clothes-Are-Those/Solution.md) |
 
 If you are participating MAL users do not share this repository *openly* please.
@@ -35,3 +35,6 @@ Discord channel for the Seiyuu event uses format Q1-1 (Question 1 Character 1).
   - Seiyuu Scramble: S1, S1C1, S1C2
 - [CutieZia](https://myanimelist.net/profile/CutieZia) [MyAnimeList]
   - Seiyuu Scramble: S4, S4C2
+- [AOIsama](https://myanimelist.net/profile/AOIsama) [MyAnimeList]
+  - Seiyuu Scramble: S18, S18C2
+
