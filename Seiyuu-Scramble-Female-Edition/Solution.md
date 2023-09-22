@@ -33,17 +33,17 @@ Back to [Start page](../README.md) ↩️
 
 | # | Seiyuu | Character 1 | Character 2 | Character 3 | Notes | Audio Source |
 | :--- | --- | --- | --- | --- | --- | --- |
-| 1 | [Kitou, Akari](https://myanimelist.net/people/34951/Akari_Kitou) | [Aru Honshou](https://myanimelist.net/character/148606/Aru_Honshou) | [Tsukasa Yuzaki](https://myanimelist.net/character/163271/Tsukasa_Yuzaki) | | contributed by [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) (needs confirmation or clip source) | |
+| 1 | [Kitou, Akari](https://myanimelist.net/people/34951/Akari_Kitou) | [Aru Honshou](https://myanimelist.net/character/148606/Aru_Honshou) | [Tsukasa Yuzaki](https://myanimelist.net/character/163271/Tsukasa_Yuzaki) | | contributed by [Loirinha_Queen](https://myanimelist.net/profile/Loirinha_Queen) and [Enymu](https://myanimelist.net/profile/Enymu) | sample 3 from [>here<](https://youtu.be/w2MGcMeQQGc) |
 | 2 | | | | | | |
-| 3 | | | | | | |
+| 3 | [Sawashiro, Miyuki](https://myanimelist.net/people/99/Miyuki_Sawashiro) | | [Aka no Saber](https://myanimelist.net/character/55977/Aka_no_Saber) | | contributed by [FlameHazeEmpa](https://myanimelist.net/profile/FlameHazeEmpa) | |
 | 4 | [Lynn](https://myanimelist.net/people/10929/Lynn) | | [Miorine Rembran](https://myanimelist.net/character/212447/Miorine_Rembran) | | contributed by [CutieZia](https://myanimelist.net/profile/CutieZia) | sample 2 from [>here<](https://www.youtube.com/watch?v=TNZ-HuroA30) |
-| 5 | | | | | | |
+| 5 | [Ishikawa, Yui](https://myanimelist.net/people/5142/Yui_Ishikawa) |  | | | | |
 | 6 | [Minase, Inori](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | [Chino Kafuu](https://myanimelist.net/character/94941/Chino_Kafuu) (?) | Trademark ASMR Voice, but no vocal range. Need confirmation for last characters | sample 1 from [>here<](https://youtu.be/J1fmvw8C174?t=209) |
 | 7 | [Sakura, Ayane](https://myanimelist.net/people/11622/Ayane_Sakura) | | | | her "happy" voice | |
 | 8 | | | | | | |
 | 9 | [Komatsu, Mikako](https://myanimelist.net/people/10071/Mikako_Komatsu) | [Saika Totsuka](https://myanimelist.net/character/67071/Saika_Totsuka) | | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | | sample 3 Nisekoi OST [>here<](https://youtu.be/T1DUoqjMEI8) |
 | 10 | [Nakahara, Mai](https://myanimelist.net/people/31/Mai_Nakahara) | | | [Nagisa Furukawa](https://myanimelist.net/character/4604/Nagisa_Furukawa) | | sample 3 Clannad OST [>here<](https://youtu.be/J-P-NKwDneo) |
-| 11 | | | | | | |
+| 11 | [Itou, Miku](https://myanimelist.net/people/24413/Miku_Itou) | [Miku Nakano](https://myanimelist.net/character/160603/Miku_Nakano) | | | contributed by [FlameHazeEmpa](https://myanimelist.net/profile/FlameHazeEmpa) | |
 | 12 | | | | | | |
 | 13 | | | | | | |
 | 14 | | | | | | |

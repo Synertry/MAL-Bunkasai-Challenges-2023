@@ -20,6 +20,7 @@ Where to look for collaboration.
 
 
 ### MyAnimeList
+
   - Clothes challenge thread
     - [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2117798)
     - Users who posted in this thread are already involved in this event, so there is a high chance they are going to participate in the Seiyuu event as well
