@@ -36,10 +36,10 @@ Back to [Front page](../README.md) ↩️
 | :--- | --- | --- | --- | --- | --- |
 | 1 | [Akari Kitou](https://myanimelist.net/people/34951/Akari_Kitou) | [Aru Honshou](https://myanimelist.net/character/148606/Aru_Honshou) | [Tsukasa Yuzaki](https://myanimelist.net/character/163271/Tsukasa_Yuzaki) | [Nezuko Kamado](https://myanimelist.net/character/146157/Nezuko_Kamado) | Got multiple confirmations |
 | 2 | | | | | |
-| 3 | [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro) | [Yuzuki Seo](https://myanimelist.net/character/88395/Yuzuki_Seo) | [Aka no Saber](https://myanimelist.net/character/55977/Aka_no_Saber) | [Kirari Momobami](https://myanimelist.net/character/123913/Kirari_Momobami) | |
+| 3 | [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro) | [Yuzuki Seo](https://myanimelist.net/character/88395/Yuzuki_Seo) | | [Kirari Momobami](https://myanimelist.net/character/123913/Kirari_Momobami) | |
 | 4 | [Lynn](https://myanimelist.net/people/10929/Lynn) | [Fuuka Akitsuki](https://myanimelist.net/character/100811/Fuuka_Akitsuki) | [Miorine Rembran](https://myanimelist.net/character/212447/Miorine_Rembran) | [Mafuyuu Kirisu](https://myanimelist.net/character/154056/Mafuyu_Kirisu) | |
-| 5 | [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa) |  | | | |
-| 6 | [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | [Chino Kafuu](https://myanimelist.net/character/94941/Chino_Kafuu) (?) | Still need confirmation for last characters |
+| 5 | [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa) | | | | |
+| 6 | [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | | |
 | 7 | [Ayane Sakura](https://myanimelist.net/people/11622/Ayane_Sakura) | | | [Nao Tomori](https://myanimelist.net/character/122211/Nao_Tomori) | I can just identify her "happy" voice, also she doesn't have any vocal range |
 | 8 | [Yuka Iguchi](https://myanimelist.net/people/885/Yuka_Iguchi) | | | | |
 | 9 | [Mikako Komatsu](https://myanimelist.net/people/10071/Mikako_Komatsu) | [Saika Totsuka](https://myanimelist.net/character/67071/Saika_Totsuka) | | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | |
@@ -55,7 +55,7 @@ Back to [Front page](../README.md) ↩️
 | 19 | [Kanae Itou](https://myanimelist.net/people/762/Kanae_Itou) | [Ohana Matsumae](https://myanimelist.net/character/36184/Ohana_Matsumae) | [Elucia de Lute Ima](https://myanimelist.net/character/14015/Elucia_de_Lute_Ima) | [Sena Kashiwazaki](https://myanimelist.net/character/37514/Sena_Kashiwazaki) | |
 | 20 | | | | | |
 
-* Audio sources are now in the [Google Sheet](https://docs.google.com/spreadsheets/d/1Ew4AqksGXSBn2eQv9w1Yg-Cm2ggb38BLrbEulFvQm2c) (look above at the Contributing section)
+* All Audio sources and *guesses* (unconfirmed entries) are now in the [Google Sheet](https://docs.google.com/spreadsheets/d/1Ew4AqksGXSBn2eQv9w1Yg-Cm2ggb38BLrbEulFvQm2c) (look above at the Contributing section)
 * For exact contributions check Front Page of this repo
   
 Back to [Front page](../README.md) ↩️
