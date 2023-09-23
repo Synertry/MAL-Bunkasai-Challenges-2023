@@ -38,7 +38,7 @@ Back to [Front page](../README.md) ↩️
 | 2 | | | | | |
 | 3 | [Miyuki Sawashiro](https://myanimelist.net/people/99/Miyuki_Sawashiro) | [Yuzuki Seo](https://myanimelist.net/character/88395/Yuzuki_Seo) | | [Kirari Momobami](https://myanimelist.net/character/123913/Kirari_Momobami) | |
 | 4 | [Lynn](https://myanimelist.net/people/10929/Lynn) | [Fuuka Akitsuki](https://myanimelist.net/character/100811/Fuuka_Akitsuki) | [Miorine Rembran](https://myanimelist.net/character/212447/Miorine_Rembran) | [Mafuyuu Kirisu](https://myanimelist.net/character/154056/Mafuyu_Kirisu) | |
-| 5 | [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa) | | | | |
+| 5 | [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa) | [Enterprise](https://myanimelist.net/character/171646/Enterprise) | | | |
 | 6 | [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | | |
 | 7 | [Ayane Sakura](https://myanimelist.net/people/11622/Ayane_Sakura) | | | [Nao Tomori](https://myanimelist.net/character/122211/Nao_Tomori) | I can just identify her "happy" voice, also she doesn't have any vocal range |
 | 8 | [Yuka Iguchi](https://myanimelist.net/people/885/Yuka_Iguchi) | | [Index Librorum Prohibitorum](https://myanimelist.net/character/13699/Index_Librorum_Prohibitorum) | | |
