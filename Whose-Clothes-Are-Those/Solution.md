@@ -2,7 +2,7 @@
 
 ___
 
-Back to [Start page](../README.md) ↩️
+Back to [Front page](../README.md) ↩️
 
 | # | Picture | Character | URL | Anime |
 | :--- | :---: | :--- | :--- | :---: |
@@ -67,4 +67,4 @@ Back to [Start page](../README.md) ↩️
 | 59 | ![Question 59](images/Question%2059.png "Question 59") | Nice | https://myanimelist.net/character/93431/Nice | Hamatora |
 | 60 | ![Question 60](images/Question%2060.png "Question 60") | Uramichi Omota | https://myanimelist.net/character/165714/Uramichi_Omota | Uramichi Oniisan |
 
-Back to [Start page](../README.md) ↩️
+Back to [Front page](../README.md) ↩️

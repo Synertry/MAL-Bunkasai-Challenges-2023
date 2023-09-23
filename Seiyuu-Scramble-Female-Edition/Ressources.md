@@ -25,3 +25,6 @@ FK Studios on YouTube has a lot of Seiyuu character compilation videos in this p
 https://youtube.com/playlist?list=PLroLHz5zo8jgWo4F-d1hqrZhGDCwQXEO8
 
 Hearing them back and forth can help you to identify the specific characters for this Seiyuu.
+
+
+Back to [Front page](../README.md) ↩️

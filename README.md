@@ -42,9 +42,10 @@ Discord channel for the Seiyuu event uses format Q1-1 (Question 1 Character 1).
 - [CutieZia](https://myanimelist.net/profile/CutieZia) [MyAnimeList]
   - Seiyuu Scramble: S4, S4C2
 - [AOIsama](https://myanimelist.net/profile/AOIsama) [MyAnimeList]
-  - Seiyuu Scramble: S18, S18C3, S4C1
+  - Seiyuu Scramble: S18, S18C3
 - [Enymu](https://myanimelist.net/profile/Enymu) [MyAnimeList]
-  - Seiyuu Scramble: S1C3, S3C1
+  - Seiyuu Scramble: S1C3, S3C1, S3C3, S4C1, S4C3, S7C3, S15C1, S17C2
+  - Has confirmed and provided the audio sources for many findings
 - [FlameHazeEmpa](https://myanimelist.net/profile/FlameHazeEmpa) [MyAnimeList]
   - Seiyuu Scramble: S3, S5, S8, S11, S15, S17
 - [ElBriga27](https://myanimelist.net/profile/ElBriga27) [MyAnimeList]
