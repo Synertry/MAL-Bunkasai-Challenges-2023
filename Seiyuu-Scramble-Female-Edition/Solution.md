@@ -41,8 +41,8 @@ Back to [Front page](../README.md) ↩️
 | 5 | [Yui Ishikawa](https://myanimelist.net/people/5142/Yui_Ishikawa) | | | | |
 | 6 | [Inori Minase](https://myanimelist.net/people/11297/Inori_Minase) | [Shouko Makinohara](https://myanimelist.net/character/149616/Shouko_Makinohara) | [Mari Tamaki](https://myanimelist.net/character/157147/Mari_Tamaki) | | |
 | 7 | [Ayane Sakura](https://myanimelist.net/people/11622/Ayane_Sakura) | | | [Nao Tomori](https://myanimelist.net/character/122211/Nao_Tomori) | I can just identify her "happy" voice, also she doesn't have any vocal range |
-| 8 | [Yuka Iguchi](https://myanimelist.net/people/885/Yuka_Iguchi) | | | | |
-| 9 | [Mikako Komatsu](https://myanimelist.net/people/10071/Mikako_Komatsu) | [Saika Totsuka](https://myanimelist.net/character/67071/Saika_Totsuka) | | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | |
+| 8 | [Yuka Iguchi](https://myanimelist.net/people/885/Yuka_Iguchi) | | [Index Librorum Prohibitorum](https://myanimelist.net/character/13699/Index_Librorum_Prohibitorum) | | |
+| 9 | [Mikako Komatsu](https://myanimelist.net/people/10071/Mikako_Komatsu) | [Saika Totsuka](https://myanimelist.net/character/67071/Saika_Totsuka) | [Miuna Shiodome](https://myanimelist.net/character/13699/Index_Librorum_Prohibitorum) | [Seishirou Tsugumi](https://myanimelist.net/character/58885/Seishirou_Tsugumi) | |
 | 10 | [Mai Nakahara](https://myanimelist.net/people/31/Mai_Nakahara) | | | [Nagisa Furukawa](https://myanimelist.net/character/4604/Nagisa_Furukawa) | |
 | 11 | [Miku Itou](https://myanimelist.net/people/24413/Miku_Itou) | [Hougetsu Shimamura](https://myanimelist.net/character/118717/Hougetsu_Shimamura) | [Kokkoro](https://myanimelist.net/character/175840/Kokkoro) | [Miku Nakano](https://myanimelist.net/character/160603/Miku_Nakano) | Confirmed all characters in official discord channel, thanks CutieZia for submit trial |
 | 12 | | | | | |

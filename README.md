@@ -17,7 +17,7 @@ This repo solves specificially this two Forum Events challenges.
 
 | Challenge | Progress | Solution |
 | --- | --- | --- |
-| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 15/20 | [Page](Seiyuu-Scramble-Female-Edition/Solution.md) |
+| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 16/20 | [Page](Seiyuu-Scramble-Female-Edition/Solution.md) |
 | [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2113947) | 60/60 ✔️ | [Page](Whose-Clothes-Are-Those/Solution.md) |
 
 If you are participating MAL users do not share this repository *openly* please.
