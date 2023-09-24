@@ -19,7 +19,7 @@ Questions are all available via this video:
 
 As this is much more harder than the clothes challenge, this solution will be a work in progress.</br>
 If you want to contribute, please contact me on MAL or Discord.
-Or put an entry in this Google Sheet: https://docs.google.com/spreadsheets/d/1Ew4AqksGXSBn2eQv9w1Yg-Cm2ggb38BLrbEulFvQm2c
+Or put an entry in this Google Sheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vRSYhrYngCY5AcavmsgaX28qmHneZWfkpzwq0pEYpD3I32Bc7bHyg7M6F5hEkGK8R2TF-S5FW5r-bZi/pubhtml
 I will lock cells if they are solved regularly, to avoid griefing.
 
 
@@ -55,7 +55,7 @@ Back to [Front page](../README.md) ↩️
 | 19 | [Kanae Itou](https://myanimelist.net/people/762/Kanae_Itou) | [Ohana Matsumae](https://myanimelist.net/character/36184/Ohana_Matsumae) | [Elucia de Lute Ima](https://myanimelist.net/character/14015/Elucia_de_Lute_Ima) | [Sena Kashiwazaki](https://myanimelist.net/character/37514/Sena_Kashiwazaki) | |
 | 20 | | | | | |
 
-* All Audio sources and *guesses* (unconfirmed entries) are now in the [Google Sheet](https://docs.google.com/spreadsheets/d/1Ew4AqksGXSBn2eQv9w1Yg-Cm2ggb38BLrbEulFvQm2c) (look above at the Contributing section)
+* All Audio sources and *guesses* (unconfirmed entries) are now in the [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSYhrYngCY5AcavmsgaX28qmHneZWfkpzwq0pEYpD3I32Bc7bHyg7M6F5hEkGK8R2TF-S5FW5r-bZi/pubhtml) (look above at the Contributing section)
 * For exact contributions check Front Page of this repo
   
 Back to [Front page](../README.md) ↩️
