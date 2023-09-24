@@ -46,7 +46,7 @@ Back to [Front page](../README.md) ↩️
 | 10 | [Mai Nakahara](https://myanimelist.net/people/31/Mai_Nakahara) | | | [Nagisa Furukawa](https://myanimelist.net/character/4604/Nagisa_Furukawa) | |
 | 11 | [Miku Itou](https://myanimelist.net/people/24413/Miku_Itou) | [Hougetsu Shimamura](https://myanimelist.net/character/118717/Hougetsu_Shimamura) | [Kokkoro](https://myanimelist.net/character/175840/Kokkoro) | [Miku Nakano](https://myanimelist.net/character/160603/Miku_Nakano) | Confirmed all characters in official discord channel, thanks CutieZia for submit trial |
 | 12 | | | | | |
-| 13 | | | | | |
+| 13 | [Saori Oonishi](https://myanimelist.net/people/19884/Saori_Oonishi) | | [Eriri Spencer Sawamura](https://myanimelist.net/character/90179/Eriri_Spencer_Sawamura) | [Ais Wallenstein](https://myanimelist.net/character/92227/Ais_Wallenstein) | Confirmed by my own submission |
 | 14 | [Aki Toyosaki](https://myanimelist.net/people/599/Aki_Toyosaki) | [Iori Nagase](https://myanimelist.net/character/40196/Iori_Nagase) | [Momo Belia Deviluke](https://myanimelist.net/character/17364/Momo_Belia_Deviluke) | [Yui Hirasawa](https://myanimelist.net/character/19565/Yui_Hirasawa) | |
 | 15 | [Sora Amamiya](https://myanimelist.net/people/21517/Sora_Amamiya) | [Isla](https://myanimelist.net/character/124049/Isla) | | [Asseylum Vers Allusia](https://myanimelist.net/character/103697/Asseylum_Vers_Allusia) | |
 | 16 | [Mai Fuchigami](https://myanimelist.net/people/11184/Nao_Touyama) | | [Nagisa Shiota](https://myanimelist.net/character/65645/Nagisa_Shiota) | | she can even voice animals, too diff |

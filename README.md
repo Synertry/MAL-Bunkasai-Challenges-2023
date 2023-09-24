@@ -17,7 +17,7 @@ This repo solves specificially this two Forum Events challenges.
 
 | Challenge | Progress | Solution |
 | --- | --- | --- |
-| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 16/20 | [Page](Seiyuu-Scramble-Female-Edition/Solution.md) |
+| [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 17/20 (Enough for Winners Ticket) | [Page](Seiyuu-Scramble-Female-Edition/Solution.md) |
 | [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2113947) | 60/60 ✔️ | [Page](Whose-Clothes-Are-Those/Solution.md) |
 
 If you are participating MAL users do not share this repository *openly* please.
@@ -47,6 +47,6 @@ Discord channel for the Seiyuu event uses format Q1-1 (Question 1 Character 1).
   - Seiyuu Scramble: S1C3, S3C1, S4C1, S4C3, S5C1, S7C3, S15C1, S17C2
   - Has confirmed and provided the audio sources for many findings
 - [FlameHazeEmpa](https://myanimelist.net/profile/FlameHazeEmpa) [MyAnimeList]
-  - Seiyuu Scramble: S3, S5, S8, S11, S15, S17
+  - Seiyuu Scramble: S3, S5, S8, S11, S13, S15, S17
 - [ElBriga27](https://myanimelist.net/profile/ElBriga27) [MyAnimeList]
   - Seiyuu Scramble: S3C3
