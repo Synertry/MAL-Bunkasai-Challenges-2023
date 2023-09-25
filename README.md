@@ -20,13 +20,15 @@ This repo solves specificially this two Forum Events challenges.
 | [Seiyuu Scramble: Female Edition](https://myanimelist.net/forum/?topicid=2113947) | 17/20 (Enough for Winners Ticket) | [Page](Seiyuu-Scramble-Female-Edition/Solution.md) |
 | [Whose Clothes Are Those?](https://myanimelist.net/forum/?topicid=2113947) | 60/60 ✔️ | [Page](Whose-Clothes-Are-Those/Solution.md) |
 
-If you are participating MAL users do not share this repository *openly* please.
-Through this collobaration we can gain an edge in the challenges.
+
+## Motivation
+
+My niche interest is to lookup the voice actors, when ever I watch a new anime. Escpecially if I can recognize the voice.
+I also wanted to try a non-coding project, so I decided to solve this challenge.
+It gave me insight, how to [aquire collaborators](Seiyuu-Scramble-Female-Edition/Sourcing.md), how to collaborate and some new tools.
 
 
 ## Credits
-
-WIP, contact me on MAL or Discord if you want to contribute.
 
 Seiyuu Annotations:
 

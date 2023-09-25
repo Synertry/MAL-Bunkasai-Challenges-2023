@@ -17,7 +17,7 @@ Questions are all available via this video:
 
 ## Contributing
 
-As this is much more harder than the clothes challenge, this solution will be a work in progress.</br>
+As this is much more harder than the clothes challenge, this solution will be a work in progress. UPDATE: Event has finished.</br>
 If you want to contribute, please contact me on MAL or Discord.
 Or put an entry in this Google Sheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vRSYhrYngCY5AcavmsgaX28qmHneZWfkpzwq0pEYpD3I32Bc7bHyg7M6F5hEkGK8R2TF-S5FW5r-bZi/pubhtml
 I will lock cells if they are solved regularly, to avoid griefing.
