@@ -28,6 +28,15 @@ You can find my personal guidance for this challenge here:
 </br>
 </br>
 
+___
+# <center><span style="font-size: 30; color:red">Event is over and official answers has been published here:
+https://myanimelist.net/forum/?topicid=2117790
+
+Direct link to the answers:
+https://drive.google.com/file/d/18BNkGnzDprICUcQWCeszDWFLkfPyoJmW
+</span></center>
+___
+
 Back to [Front page](../README.md) ↩️
 
 ## Solution
